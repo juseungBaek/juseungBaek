@@ -11,10 +11,10 @@
 <h1>💬 Projects</h1>
 <h2>1.화장품 웹 쇼핑몰</h2>
 <ul>
-  <li>개발기간 : </li>
-  <li>핵심 역할 : </li>
-  <li>Back-end : </li>
-  <li>Front-end : </li>
+  <li>개발기간 : 2023.11.27 ~ 12.20</li>
+  <li>핵심 역할 : 팀장 - 로그인, 회원가입, Map API, 피부진단, 전체적 오류 해결</li>
+  <li>Back-end : Java, SpringBoot, Oracle, Apache Tomcat</li>
+  <li>Front-end : Html, Css, JavaScript, Jquery, BootStrap, Thyeleaf</li>
 </ul>
 <a href="https://github.com/juseungBaek/first-project">프로젝트 상세 설명</a>
 <br>
@@ -22,11 +22,11 @@
 <h2>2.소모임 사이트</h2>
 <ul>
   <li>개발기간 : 2024.01.22 ~ 02.20</li>
-  <li>핵심 역할 : 팀장 - </li>
+  <li>핵심 역할 : 팀장 - 로그인, JWT토큰, 모임가입페이지 및 모임가입 구현, 메인페이지, 관리자페이지, 리뷰페이지 등 </li>
   <li>Back-end : Java, SpringBoot, Node.js, AWS, Apache Tomcat</li>
   <li>Front-end : React.js, JavaScript, HTML, CSS </li>
 </ul>
-<a href="https://github.com/juseungBaek/first-project">프로젝트 상세 설명</a>
+<a href="https://github.com/juseungBaek/FinalProject">프로젝트 상세 설명</a>
 <!--
 **juseungBaek/juseungBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
