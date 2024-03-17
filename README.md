@@ -8,7 +8,15 @@
   포트폴리오를 통해 제 경험과 프로젝트를 확인해 보세요. 함께 일하고 싶은 예비 개발자로서 여러분과 소통하기를 기대합니다!
 </p>
 
-<h2>💬 Projects</h2>
+<h1>💬 Projects</h1>
+<h2>1.화장품 웹 쇼핑몰</h2>
+<ul>
+  <li>개발기간 : </li>
+  <li>핵심 역할 : </li>
+  <li>Back-end : </li>
+  <li>Front-end : </li>
+</ul>
+<a href="https://github.com/juseungBaek/first-project">프로젝트 상세 설명</a>
 <!--
 **juseungBaek/juseungBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
