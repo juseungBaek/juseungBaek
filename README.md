@@ -17,6 +17,16 @@
   <li>Front-end : </li>
 </ul>
 <a href="https://github.com/juseungBaek/first-project">프로젝트 상세 설명</a>
+<br>
+<br>
+<h2>2.소모임 사이트</h2>
+<ul>
+  <li>개발기간 : 2024.01.22 ~ 02.20</li>
+  <li>핵심 역할 : 팀장 - </li>
+  <li>Back-end : Java, SpringBoot, Node.js, AWS, Apache Tomcat</li>
+  <li>Front-end : React.js, JavaScript, HTML, CSS </li>
+</ul>
+<a href="https://github.com/juseungBaek/first-project">프로젝트 상세 설명</a>
 <!--
 **juseungBaek/juseungBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
